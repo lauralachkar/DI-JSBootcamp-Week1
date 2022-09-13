@@ -1,0 +1,43 @@
+#cat-senses-header{
+    margin-left: 45px;
+    text-decoration: underline;
+}
+
+ul{
+    margin-left: 42px;
+}
+
+#media-header{
+    margin-left: 655px;
+}
+
+#cat-image{
+    width: 420px;
+    margin-top: 20px;
+    margin-left: 500px;
+}
+
+#header-difference{
+    border: 1px solid red;
+    text-align: center;
+    color: red;
+}
+
+table, th, td {
+    border: 1px solid;
+}
+
+td{
+    height: 60px;
+}
+
+.characteristics-behavior-table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#lion-image{
+    margin-top: 60px;
+    margin-left: 300px;
+    width: 900px;
+}
