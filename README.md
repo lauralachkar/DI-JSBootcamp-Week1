@@ -1,1 +1,1 @@
-# DI-JavaScript-Bootcamp-Week1
+# DI-JSBootcamp-Week1
