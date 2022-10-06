@@ -1,0 +1,46 @@
+body{
+    display: flex;
+}
+
+.flexboxContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.flexItem{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    background-color: yellow;
+    margin: 20px;
+}
+
+
+.secondFlexboxContainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.flexItem-second{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border: 2px solid black;
+    margin-left: 150px;
+}
+
+.thirdFlexboxContainer{
+   display: flex;
+   flex-direction: column;
+}
+
+.flexItem-third{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border: 2px solid black;
+    margin-left: 180px;
+    margin: 20px;
+}
